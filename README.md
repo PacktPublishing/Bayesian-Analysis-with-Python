@@ -44,6 +44,7 @@ our system, we can install new Python packages with this command:
 
 We will use the following python packages:
 
+
 * Ipython 5.0
 * NumPy 1.11.1
 * SciPy 0.18.1
@@ -55,6 +56,15 @@ We will use the following python packages:
 ## Errata
 
 If you find an error in the book please fill an issue or send a PR [here](https://github.com/aloctavodia/BAP)
+=======
+•  Ipython 5.0
+•  NumPy 1.11.1
+•  SciPy 0.18.1
+•  Pandas  0.18.1
+•  Matplotlib 1.5.3
+•  Seaborn 0.7.1
+•  PyMC3 3.0
+
 
 ## Related Products
 * [Expert Python Programming](https://www.packtpub.com/application-development/expert-python-programming?utm_source=github&utm_medium=repository&utm_campaign=9781847194947)
@@ -62,5 +72,5 @@ If you find an error in the book please fill an issue or send a PR [here](https:
 * [Learning Bayesian Models with R](https://www.packtpub.com/big-data-and-business-intelligence/learning-bayesian-models-r?utm_source=github&utm_medium=repository&utm_campaign=9781783987603)
 
 * [Mastering Probabilistic Graphical Models Using Python](https://www.packtpub.com/big-data-and-business-intelligence/mastering-probabilistic-graphical-models-using-python?utm_source=github&utm_medium=repository&utm_campaign=9781784394684)
-###Suggestions and Feedback
+### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
