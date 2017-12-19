@@ -1,4 +1,4 @@
-#Bayesian Analysis with Python
+# Bayesian Analysis with Python
 This is the code repository for [Bayesian Analysis with Python](https://www.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python?utm_source=github&utm_medium=repository&utm_campaign=9781785883804), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 ##Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
@@ -45,11 +45,11 @@ We will use the following python packages:
 •  Seaborn 0.7.1
 •  PyMC3 3.0
 
-##Related Products
+## Related Products
 * [Expert Python Programming](https://www.packtpub.com/application-development/expert-python-programming?utm_source=github&utm_medium=repository&utm_campaign=9781847194947)
 
 * [Learning Bayesian Models with R](https://www.packtpub.com/big-data-and-business-intelligence/learning-bayesian-models-r?utm_source=github&utm_medium=repository&utm_campaign=9781783987603)
 
 * [Mastering Probabilistic Graphical Models Using Python](https://www.packtpub.com/big-data-and-business-intelligence/mastering-probabilistic-graphical-models-using-python?utm_source=github&utm_medium=repository&utm_campaign=9781784394684)
-###Suggestions and Feedback
+### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
