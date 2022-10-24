@@ -35,3 +35,7 @@ We will use the following python packages:
 ## Errata
 
 If you find an error in the book please fill an issue or send a PR [here](https://github.com/aloctavodia/BAP)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785883804">https://packt.link/free-ebook/9781785883804 </a> </p>
